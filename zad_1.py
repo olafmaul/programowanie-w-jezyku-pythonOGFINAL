@@ -1,5 +1,7 @@
-#%%
-names = ['Martin', 'Tom', 'Eva']
+# Stworzyć funkcję, która przyjmuje 2 argumenty (typu string) name i surname, a następnie zwróci stringa zgodnie ze wzorem Cześć {name} {surname}!
+# Należy uruchomić funkcję, wynik wykonania funkcji zapisać do zmiennej, a następnie go wyświetlić (print)
+def print_name(name, surname):
+    print(f'Cześć {name} {surname}!')
 
-for name in names:
-    print(name)
+
+print_name('Olaf', 'Maul')
