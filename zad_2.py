@@ -1,7 +1,7 @@
-#Stworzyć funkcję, która przyjmie 2 argumenty typu int, a następnie zwróci wynik mnożenia obu liczb.
-def multiply_numbers(x,y):
+def multiply_numbers(x, y):
     return x * y
 
-multiply_two_numbers = multiply_numbers(20,154)
+
+multiply_two_numbers = multiply_numbers(20, 154)
 
 print(multiply_two_numbers)
