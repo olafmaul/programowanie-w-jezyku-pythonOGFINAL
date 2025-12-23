@@ -1,1 +1,0 @@
-import magazinex.Product
