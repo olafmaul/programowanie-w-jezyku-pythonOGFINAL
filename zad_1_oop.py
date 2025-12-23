@@ -1,6 +1,5 @@
 class Student:
    def __init__(self, name, marks):
-       # Inicjalizacja atrybutów name (imię) i marks (lista ocen)
        self.name = name
        self.marks = marks
 
