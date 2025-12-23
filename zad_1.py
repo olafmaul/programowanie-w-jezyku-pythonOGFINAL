@@ -1,7 +1,3 @@
-names = ['Martin', 'Tom', 'Eva']
-
-for name in names:
-    print(name)
 class Student:
    def __init__(self, name, marks):
        # Inicjalizacja atrybutów name (imię) i marks (lista ocen)
